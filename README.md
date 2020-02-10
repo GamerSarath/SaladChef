@@ -1,0 +1,2 @@
+# SaladChef
+Programmer- art Version of Salad Chef simulation in Unity. Two players playing in same machine with different keys to control two characters to collect the vegetables to make a salad according to the combination requested by the customer who will interact with the player in different ways  deponds on the wait time .The player need to deliver the salad to the right customer as fast as possible and score as many as points in the before the time runs out. The player with the highest points will win the match.
