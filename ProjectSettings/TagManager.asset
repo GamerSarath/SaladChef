@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MemoryManager
+  - SplashVideoManager
+  - UIManager
+  - CareerButton
+  - MultiPlayerButton
+  - SettingsButton
+  - ExitButton
   layers:
   - Default
   - TransparentFX
