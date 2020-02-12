@@ -11,6 +11,17 @@ TagManager:
   - MultiPlayerButton
   - SettingsButton
   - ExitButton
+  - SceneManager
+  - GameManager
+  - NextButton
+  - PreviousButton
+  - CharacterHolder
+  - CharacterNameHolder
+  - SpeedStar
+  - AgilityStar
+  - PatienceStar
+  - SpecialMoveText
+  - UnlockAmountText
   layers:
   - Default
   - TransparentFX
